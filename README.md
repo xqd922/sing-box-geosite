@@ -1,4 +1,3 @@
-# sing-box-rule-set-transform
 # 自动转换其它规则集为sing-box格式规则集
 
 在links.txt添加规则集，触发actions，自动转化为sing-box格式，储存于Rule文件夹中。
