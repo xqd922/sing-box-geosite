@@ -1,0 +1,32 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "25mao.com",
+        "clarivate.cn",
+        "clarivate.com",
+        "clarivate.net",
+        "webofknowledge.com",
+        "webofscience.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "clarivate",
+        "webofknowledge",
+        "webofscience"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".25mao.com",
+        ".clarivate.cn",
+        ".clarivate.com",
+        ".clarivate.net",
+        ".webofknowledge.com",
+        ".webofscience.com"
+      ]
+    }
+  ],
+  "version": 1
+}
